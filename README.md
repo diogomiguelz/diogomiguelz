@@ -50,16 +50,16 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArturJesus22&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturJesus22&theme=radical" alt="GitHub Streak" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=diogomiguelz&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogomiguelz&theme=radical" alt="GitHub Streak" width="45%"/>
 </div>
 
 ---
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-jesus-b88a42294/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/ArturJesus22?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomiguelz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/diogomiguelz?tab=repositories)
 
 ---
 
